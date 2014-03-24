@@ -28,7 +28,7 @@
 
     <groupId>com.mycila</groupId>
     <artifactId>mycila-iron-client</artifactId>
-    <version>1.0.b1-SNAPSHOT</version>
+    <version>1.0.b1</version>
     <packaging>jar</packaging>
 
     <name>mycila-iron-client</name>
@@ -51,7 +51,7 @@
         <connection>scm:git:https://github.com/mycila/${mycila.github.name}.git</connection>
         <developerConnection>scm:git:git@github.com:mycila/${mycila.github.name}.git</developerConnection>
         <url>http://github.com/mycila/${mycila.github.name}</url>
-        <tag>HEAD</tag>
+        <tag>mycila-iron-client-1.0.b1</tag>
     </scm>
 
     <build>
