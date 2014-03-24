@@ -73,7 +73,7 @@
         <dependency>
             <groupId>com.mycila</groupId>
             <artifactId>mycila-http-client</artifactId>
-            <version>1.0.b3-SNAPSHOT</version>
+            <version>1.0.b2</version>
         </dependency>
 
         <dependency>
